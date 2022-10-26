@@ -1,0 +1,15 @@
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\bin\Debug\net6.0\Новая папка.exe
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\bin\Debug\net6.0\Новая папка.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\refint\Новая папка.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\DZ4\Новая папка\obj\Debug\net6.0\ref\Новая папка.dll
